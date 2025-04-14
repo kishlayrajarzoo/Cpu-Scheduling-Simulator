@@ -83,5 +83,4 @@ If you'd like to contribute to this project, please fork the repository and use 
 4. Push to the branch.
 5. Submit a pull request.
 
-## YouTube Video
-Video link of project demonstration: https://www.youtube.com/watch?v=Rf6Ec8PjOyg
+
